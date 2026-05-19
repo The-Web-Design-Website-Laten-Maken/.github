@@ -1,42 +1,39 @@
 # The Web Design - Website Laten Maken
 
-We are **The WebDesign**, a web development and design company based in the Netherlands.  
-We help businesses build modern, responsive, SEO-friendly websites that create a strong online presence.
+Wij zijn **The WebDesign**, een webdesign- en webdevelopmentbedrijf in Nederland.  
+Wij helpen bedrijven met moderne, snelle en SEO-vriendelijke websites die zorgen voor een sterke online aanwezigheid.
 
-## Our Services
+## Onze Diensten
 
-### Website Design
-Modern, clean, and user-friendly website designs for businesses, brands, and professionals.
+### Website Laten Maken
+Wij ontwerpen en ontwikkelen professionele websites voor bedrijven, ondernemers en organisaties.
 
-### Website Development
-Responsive and fast websites built with clean, modern code.
+### Webdesign
+Moderne, gebruiksvriendelijke en responsive designs die passen bij uw merk.
 
-### WordPress Website Development
-Custom WordPress websites that are easy to manage, update, and grow.
+### WordPress Website
+Wij bouwen WordPress websites die makkelijk te beheren, uit te breiden en te onderhouden zijn.
 
-### Ecommerce Website Development
-Online stores for businesses that want to sell products or services online.
+### Webshop Laten Maken
+Wij ontwikkelen webshops voor bedrijven die online producten of diensten willen verkopen.
 
 ### Landing Page Design
-High-converting landing pages for ads, campaigns, and business promotions.
-
-### UI/UX Design
-Professional user interface and user experience design focused on usability and conversions.
+Wij maken converterende landingspagina’s voor advertenties, campagnes en leadgeneratie.
 
 ### Website Redesign
-Modern improvements for old websites, including layout, speed, mobile responsiveness, and SEO structure.
+Wij verbeteren bestaande websites met een modern design, betere snelheid, mobiele weergave en SEO-structuur.
 
-### SEO-Friendly Websites
-Websites built with clean structure, proper headings, fast performance, and search engine-friendly pages.
+### SEO-vriendelijke Websites
+Wij bouwen websites met een duidelijke structuur, snelle laadtijd en zoekmachinevriendelijke opbouw.
 
-### Website Maintenance
-Ongoing support, updates, fixes, improvements, and website security maintenance.
+### Website Onderhoud
+Wij bieden ondersteuning, updates, verbeteringen, foutoplossingen en beveiligingsonderhoud.
 
-## Technologies We Work With
+## Technologieën
 
 HTML, CSS, JavaScript, React, Next.js, WordPress, Shopify, PHP, Tailwind CSS, Figma
 
-## Contact Us
+## Contact
 
-Website: https://thewebdesign.nl/en/
+Website: https://thewebdesign.nl/  
 Email: info@thewebdesign.nl
