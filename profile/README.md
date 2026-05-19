@@ -38,5 +38,5 @@ HTML, CSS, JavaScript, React, Next.js, WordPress, Shopify, PHP, Tailwind CSS, Fi
 
 ## Contact Us
 
-Website: https://thewebdesign.nl/  
+Website: https://thewebdesign.nl/en/
 Email: info@thewebdesign.nl
